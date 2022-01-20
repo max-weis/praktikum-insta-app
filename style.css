@@ -1,3 +1,19 @@
 .card{
     width: 200px;
 }
+.Überschrift{
+    margin-top: 3rem;
+    margin-left: 2rem;
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+#anzeige{
+    font-size: x-large;
+}
+#beschreibung{
+    font-size: large;
+}
+.card#anzeige{
+    margin: 3rem;
+}
